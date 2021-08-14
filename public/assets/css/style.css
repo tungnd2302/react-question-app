@@ -1,0 +1,15 @@
+.t-q-detail span{
+	font-size: 12px;
+}
+
+.t-q-detail a {
+	display: block;
+	color: #000;
+}
+
+.answer_input {
+    border-top: 0px;
+    border-left: 0px;
+    outline: 0;
+    border-right: 0px;
+}
